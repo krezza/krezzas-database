@@ -1,3 +1,2 @@
 # krezzas-database
-krezza's scammer database
-just my database o3o
+just my database o3o (dont steal or i shall fork u ;-;)
